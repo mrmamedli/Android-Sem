@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/color_red" android:title="Красный" />
+    <item android:id="@+id/color_black" android:title="Чёрный" />
+    <item
+        android:id="@+id/color_none"
+        android:title="А теперь нажми сюда" />
+
+</menu>
